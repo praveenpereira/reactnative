@@ -28,7 +28,7 @@ alert('Your details has been submitted');
     </View> 
     
     <View>
-    <View style={{flexDirection:'row',marginHorizontal:50,marginTop:15,}}>
+    <View style={{flexDirection:'row', alignItems:'center', justifyContent:'center', marginTop:15,}}>
     <View>
     <TextInput  style={{backgroundColor:'lightgray', marginHorizontal:5,width:40,borderWidth:.5,borderRadius:7,padding:4}}/>
     </View>
@@ -59,7 +59,7 @@ alert('Your details has been submitted');
       marginTop:30,
       paddingHorizontal:10,
       borderColor:'grey',
-      paddingVertical:7,
+      paddingVertical:10,
       borderRadius:23,
       backgroundColor:'red'
       
