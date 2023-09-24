@@ -42,7 +42,7 @@ const Login=()=>{
       marginTop:30,
       paddingHorizontal:10,
       borderColor:'grey',
-      paddingVertical:7,
+      paddingVertical:10,
       borderRadius:23,
       backgroundColor:'red'
     }}>
